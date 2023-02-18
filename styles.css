@@ -2,6 +2,10 @@ h1 {
     font-size: 32px;
 }
 
-p {
+p:nth-child(2) {
     color: lightgray;
+}
+
+p:nth-child(3) {
+    color: coral;
 }
